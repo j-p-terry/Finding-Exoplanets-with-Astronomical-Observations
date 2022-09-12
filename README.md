@@ -17,7 +17,7 @@ ML4Sci
 
 This project is intended to use kinematic data of protoplanetary disks to determine whether a given observation has a planet and, if so, locate the planet or planets.
 
-This repo includes two trained models and a small subset of both simulated and observational data that can be tested on. Run_97048 is raw data of disk HD 97048 taken from [DSHARP](https://almascience.eso.org/almadata/lp/DSHARP/).
+This repo includes a small subset of both simulated and observational data that can be tested on. Run_97048 is raw data of disk HD 97048 taken from [DSHARP](https://almascience.eso.org/almadata/lp/DSHARP/). Two pretrained models can be found in a [Google Drive](https://drive.google.com/drive/folders/1LNDSqHZy_l1iM4sJ2WmyhgdjEJScN6vh?usp=sharing).
 
 The two architectures used are described below.
 
